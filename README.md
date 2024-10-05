@@ -1,3 +1,4 @@
+"## Summary"
 # THE-SILLOGISM-AND-THE-TRUTH-TABLES
 1. Your idea in brief = “The Syllogism and truth tables”
 2. Context = First teaching of the logic of the Syllogism to children
